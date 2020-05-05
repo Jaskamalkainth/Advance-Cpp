@@ -6,14 +6,10 @@
 using namespace std;
 
 /****
- *
- *
  *  tuple<int,int,int> tup1 
  *
  *  use of get<0>(tup1) 
  * 	use of make_tuple( , , )
- *
- *  
  */
 int main()
 {
